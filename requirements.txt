@@ -1,0 +1,14 @@
+numpy==1.26.4
+ultralytics
+opencv-python-headless
+fastapi
+uvicorn
+scikit-learn
+xgboost
+streamlit
+requests
+python-multipart
+pillow
+pandas
+matplotlib
+seaborn
